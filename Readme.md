@@ -11,6 +11,7 @@ The project is structured into two main directories:
 
 ## Features
 
+
 ### Admin Panel
 - **Jobs Form Page**: Admins can post new job listings by filling in the company name, position, contract type, location, and job description.
 - **Jobs Listing Page**: Admins can view, edit, and delete job listings. The job data is displayed in a table format.
@@ -18,6 +19,13 @@ The project is structured into two main directories:
 ### User Panel
 - **Jobs Page**: Users can view all job listings posted by the admin. They can search by company name, filter by location and contract type, and apply for jobs.
 - **Applied Jobs Page**: Users can view the jobs they have applied for.
+![image](https://github.com/user-attachments/assets/8fc1ae7b-e37f-4ad7-b4a8-54d32ff1218d)
+![image](https://github.com/user-attachments/assets/b72d2f64-aa89-432a-8438-e721d58981e8)
+![image](https://github.com/user-attachments/assets/0bbc82eb-3922-4ca8-8f85-6c90f81ad1d7)
+![image](https://github.com/user-attachments/assets/4ce48abe-c536-4d54-a340-94d3c6b9949a)
+![image](https://github.com/user-attachments/assets/e81dace3-67ce-498a-b56e-5ed7a34b2f36)
+
+
 
 ## Installation and Setup
 
