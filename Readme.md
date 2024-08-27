@@ -41,7 +41,6 @@ Make sure you have the following installed on your machine:
 
 1. **Navigate to the backend directory:**
 
-   ```bash
    cd backend
 
 Install dependencies:
@@ -59,9 +58,8 @@ DB_NAME=jobapp
 JWT_SECRET=your_jwt_secret
 Run the backend server:
 
-bash
-Copy code
-npm start
+
+npm start or node index.js
 The backend server will start on http://localhost:5000.
 
 Frontend Setup
@@ -74,7 +72,7 @@ Install dependencies:
 npm install
 
 Build the frontend:
-npm run build
+npm run build or npm start
 This will create an optimized production build in the build directory.
 
 Run the frontend in development mode (optional):
