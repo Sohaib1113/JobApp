@@ -21,7 +21,7 @@ The project is structured into two main directories:
 - **Applied Jobs Page**: Users can view the jobs they have applied for.
 ![image](https://github.com/user-attachments/assets/5f72d9b8-f26e-4e88-bb57-ca0eafc3baeb)
 ![image](https://github.com/user-attachments/assets/b72d2f64-aa89-432a-8438-e721d58981e8)
-![image](https://github.com/user-attachments/assets/0bbc82eb-3922-4ca8-8f85-6c90f81ad1d7)
+![image](https://github.com/user-attachments/assets/acef47cd-d2a3-4b6f-80f4-ae7c504a7aaa)
 ![image](https://github.com/user-attachments/assets/4ce48abe-c536-4d54-a340-94d3c6b9949a)
 ![image](https://github.com/user-attachments/assets/e81dace3-67ce-498a-b56e-5ed7a34b2f36)
 
