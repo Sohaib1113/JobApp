@@ -1,0 +1,16 @@
+.footer {
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.735); /* Semi-transparent white-grey background */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+    margin-left: 250px;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    backdrop-filter: blur(10px); /* Glassmorphism effect */
+    -webkit-backdrop-filter: blur(10px); /* Safari support for glassmorphism */
+    border-top: 1px solid rgba(255, 255, 255, 0.3); /* Subtle top border for glass effect */
+    border-radius: 16px; /* Optional: rounded corners for a smoother look */
+}
