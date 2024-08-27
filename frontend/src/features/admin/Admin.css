@@ -1,1 +1,68 @@
 
+.admin-dashboard {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .admin-dashboard h1,
+  .admin-dashboard h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2c3e50; /* Darker color for headings */
+  }
+  
+  .job-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .job-table th,
+  .job-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .job-table th {
+    background-color: #2c3e50; /* Darker header background */
+    color: white;
+    font-weight: bold;
+  }
+  
+  .job-table tr:hover {
+    background-color: rgba(0, 0, 0, 0.05); /* Slight hover effect */
+  }
+  
+  .job-table td button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  
+  .job-table td button.edit-button {
+    background-color: #3498db; /* Blue for edit */
+    color: white;
+  }
+  
+  .job-table td button.delete-button {
+    background-color: #e74c3c; /* Red for delete */
+    color: white;
+  }
+  
+  .job-table td button.edit-button:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+  }
+  
+  .job-table td button.delete-button:hover {
+    background-color: #c0392b; /* Darker red on hover */
+  }
+  
