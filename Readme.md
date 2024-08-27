@@ -22,8 +22,9 @@ The project is structured into two main directories:
 ![image](https://github.com/user-attachments/assets/5f72d9b8-f26e-4e88-bb57-ca0eafc3baeb)
 ![image](https://github.com/user-attachments/assets/b72d2f64-aa89-432a-8438-e721d58981e8)
 ![image](https://github.com/user-attachments/assets/acef47cd-d2a3-4b6f-80f4-ae7c504a7aaa)
-![image](https://github.com/user-attachments/assets/4ce48abe-c536-4d54-a340-94d3c6b9949a)
-![image](https://github.com/user-attachments/assets/e81dace3-67ce-498a-b56e-5ed7a34b2f36)
+![image](https://github.com/user-attachments/assets/13e0bd58-444d-4664-bfaf-d75602a0c31f
+![image](https://github.com/user-attachments/assets/0667fa74-ee09-4335-901f-267ae89c5f2c)
+
 
 
 
