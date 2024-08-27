@@ -1,0 +1,43 @@
+.job-listing-container {
+    margin: 20px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* Glassmorphism effect */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .job-listing-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .job-listing-table th,
+  .job-listing-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .job-listing-table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+  }
+  
+  .edit-btn,
+  .delete-btn {
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+  }
+  
+  .edit-btn {
+    background-color: #4caf50;
+  }
+  
+  .delete-btn {
+    background-color: #f44336;
+  }
+  
