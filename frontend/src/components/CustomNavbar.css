@@ -1,1 +1,36 @@
+.custom-navbar {
+    height: 60px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    position: relative;
+    z-index: 10;
+    margin-left: 250px; /* Ensure the navbar starts after the sidebar */
+    width: calc(100% - 250px); /* Navbar takes up the remaining width */
+    background-color: #007bff; /* Background color */
+}
+
+.navbar-nav {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; /* Push the logout button to the right */
+}
+
+
+.logout-button {
+    padding: 8px 16px;
+    color: white;
+    font-weight: bold;
+    background-color: #0056b3; /* Darker blue background */
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.logout-button:hover {
+    background-color: #003f7f; /* Even darker blue on hover */
+    color: white; /* Keep the text white on hover */
+    text-decoration: none; /* Remove underline on hover */
+}
 
