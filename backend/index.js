@@ -44,7 +44,5 @@ app.use('/api/jobs', jobRoutes);
 const applicationRoutes = require('./routes/applications');
 app.use('/api/applications', applicationRoutes);
 
-
-app.listen(5000, () => {
-  console.log('Server is running on port 5000');
-});
+// Export the app for Vercel
+module.exports = app;
